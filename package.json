@@ -67,7 +67,7 @@
     "ember-cli-babel": "^7.23.0",
     "ember-cookies": "^0.5.2",
     "eslint": "^7.17.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.6",
     "set-cookie-parser": "^2.4.6"
   },
   "resolutions": {
